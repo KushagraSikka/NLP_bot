@@ -33,7 +33,7 @@ requests==2.25.1
 requests-oauthlib==1.3.0
 rsa==4.7.2
 six==1.15.0
-Sklearn
+sklearn
 
 seaborn
 tensorboard==2.5.0
